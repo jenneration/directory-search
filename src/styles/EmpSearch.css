@@ -1,0 +1,17 @@
+.wrap {
+    background:green;
+    height: 100px;
+  }
+  
+  .row {
+    margin: 0;
+    padding-top: 40px;
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+  }
+
+  .form-control-lg {
+      margin-left: 10px;
+      border: 1px solid grey;
+  }

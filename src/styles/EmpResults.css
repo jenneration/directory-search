@@ -1,0 +1,10 @@
+img {
+    width: 50px;
+}
+
+td,
+tr {
+    text-align: center;
+    vertical-align: center;
+}
+
